@@ -2,7 +2,7 @@
 import pytest
 import json
 import os.path
-# import ftputil
+import ftputil
 from fixture.application import Application
 
 
